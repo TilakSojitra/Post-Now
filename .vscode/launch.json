@@ -1,0 +1,32 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "post_now",
+      "request": "launch",
+      "type": "dart",
+    },
+    {
+      "name": "post_now (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile",
+    },
+    {
+      "name": "post_now (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+    },
+    {
+      "name": "post_now",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+    }
+  ]
+}
